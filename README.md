@@ -1,4 +1,4 @@
-# vue-cli
+# vue-cli`s project external api finder with sort/pagination
 
 ## Project setup
 ```
